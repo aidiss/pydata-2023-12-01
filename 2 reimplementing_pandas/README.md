@@ -2,7 +2,6 @@
 
 Pandas is awesome, sometimes we do not know things it actually has.
 
-
 ## Noteboook
 
 [Notebook](reimplement.ipynb)

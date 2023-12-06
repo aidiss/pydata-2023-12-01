@@ -9,6 +9,8 @@
 Let's create a docker image that has GPU support and all libs we need.
 Let's have different images for training/tuning and serving model.
 
+*A lot of pain with multiple repositories*
+
 The final view. Single docker image that is able to read custom python requirements.
 
 [dockerfile](dockerfile)

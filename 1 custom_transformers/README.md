@@ -2,12 +2,13 @@
 
 ## Intro
 
-Sklearn has Pipeline, Feature Union, Column Transformer,  Column Selector
+Sklearn has Pipeline, Feature Union, Column Transformer, Column Selector
 
 It has possibility to create custom transformers.
 
-
 ## Notebook
+
+[original code](https://gitlab.com/v.gruzauskas/inostart-model-training/-/merge_requests/1/diffs)
 
 [custom_transformers.ipynb](custom_transformers.ipynb)
 
@@ -20,7 +21,6 @@ It has possibility to create custom transformers.
 - Testable https://gitlab.com/aidiss/va-model/-/blob/main/tests/test_column_selector_transformer.py?ref_type=heads
   - https://gitlab.com/aidiss/va-model/-/blob/main/tests/test_cluster_id_to_region.py?ref_type=heads
 - Trying to make it simple can make it complicated, better to keep it complex.
-
 
 ## Notes
 
