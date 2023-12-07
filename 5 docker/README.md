@@ -1,6 +1,7 @@
 # Docker, GPU
 
 - Windows, Linux, Docker GPU
+- Windows GPU problem
 - We want to be able to train, tune things on GPU
 - We want to be able to run on servers
 - We dont want to pay too much for those
@@ -12,6 +13,8 @@ Let's have different images for training/tuning and serving model.
 *A lot of pain with multiple repositories*
 
 The final view. Single docker image that is able to read custom python requirements.
+
+## Multiple docker files
 
 [dockerfile](dockerfile)
 

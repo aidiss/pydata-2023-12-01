@@ -3,11 +3,12 @@
 - Sometimes it is hard to know what data is traveling
 - There are some good tools for that.
 
-[Database functions](https://gitlab.com/aidiss/va-model/-/blob/main/src/va_model/preprocessing/data/database.py) 
+[Database functions](https://gitlab.com/aidiss/va-model/-/blob/main/src/va_model/preprocessing/data/database.py)
 
 ## Notebook
 
 [pandera.ipynb](pandera.ipynb)
+
 [schemas.py](schemas.py)
 
 ## Lessons learned
